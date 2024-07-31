@@ -36,15 +36,15 @@ public class Main {
 
             // Execute SQL files to create tables
             dbClient.executeSqlFile("sql/CallNumbers.sql");
-            System.out.println("Callnumbers:Good")
+            System.out.println("Callnumbers:Good");
             dbClient.executeSqlFile("sql/Contributors.sql");
-            System.out.println("Contributors:Good")
+            System.out.println("Contributors:Good");
             dbClient.executeSqlFile("sql/Items.sql");
-            System.out.println("Items:Good")
+            System.out.println("Items:Good");
             dbClient.executeSqlFile("sql/Resources.sql");
-            System.out.println("Resources:Good")
+            System.out.println("Resources:Good");
             dbClient.executeSqlFile("sql/Subjects.sql");
-            System.out.println("Subjects:Good")
+            System.out.println("Subjects:Good");
 
             dbClient.close();
         } catch (SQLException | IOException e) {
