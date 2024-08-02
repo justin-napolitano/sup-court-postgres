@@ -1,9 +1,9 @@
 -- Items.sql
 CREATE TABLE IF NOT EXISTS Items (
     id SERIAL PRIMARY KEY,
-    callnumber VARCHAR(255) NOT NULL,
+    call_number VARCHAR(255) NOT NULL,
     created_published VARCHAR(255),
-    date DATE,
+    date VARCHAR(255),
     notes TEXT,
     source_collection VARCHAR(255),
     title VARCHAR(255) NOT NULL,
