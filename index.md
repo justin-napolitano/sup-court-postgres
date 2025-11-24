@@ -1,12 +1,28 @@
 ---
-slug: "github-sup-court-postgres"
-title: "sup-court-postgres"
-repo: "justin-napolitano/sup-court-postgres"
-githubUrl: "https://github.com/justin-napolitano/sup-court-postgres"
-generatedAt: "2025-11-23T09:41:18.440982Z"
-source: "github-auto"
+slug: github-sup-court-postgres
+title: Automating PostgreSQL Setup for Supreme Court Data with Java and Maven
+repo: justin-napolitano/sup-court-postgres
+githubUrl: https://github.com/justin-napolitano/sup-court-postgres
+generatedAt: '2025-11-23T09:41:18.440982Z'
+source: github-auto
+summary: >-
+  Defines a PostgreSQL schema for Supreme Court jurisprudence and automates database creation using
+  Java, Maven, Docker, and SQL scripts.
+tags:
+  - postgresql
+  - java
+  - maven
+  - docker
+  - legal-data
+  - database-automation
+seoPrimaryKeyword: postgresql database setup
+seoSecondaryKeywords:
+  - java automation
+  - supreme court data
+  - docker compose
+  - sql schema
+seoOptimized: true
 ---
-
 
 # Setting Up a PostgreSQL Database for Supreme Court Data Using Java and Maven
 
@@ -64,3 +80,4 @@ The challenge is to reliably create and manage a PostgreSQL database schema for 
 ## Summary
 
 This project establishes a repeatable, automated process for creating and populating a PostgreSQL database tailored to Supreme Court data. Using Java and Maven for automation, combined with Docker for environment management, it lays the groundwork for a scalable, extensible system to serve legal data for research and public access.
+
