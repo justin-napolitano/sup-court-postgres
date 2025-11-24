@@ -22,6 +22,13 @@ seoSecondaryKeywords:
   - docker compose
   - sql schema
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on automating PostgreSQL database setup using Java, Maven, Docker, and SQL
+  scripts, which aligns closely with the 'Automation' category's emphasis on scripts and projects
+  for automating build, deployment, and workflows. The inclusion of Docker and Java-based automation
+  fits the described family better than others.
 ---
 
 # Setting Up a PostgreSQL Database for Supreme Court Data Using Java and Maven
@@ -80,4 +87,5 @@ The challenge is to reliably create and manage a PostgreSQL database schema for 
 ## Summary
 
 This project establishes a repeatable, automated process for creating and populating a PostgreSQL database tailored to Supreme Court data. Using Java and Maven for automation, combined with Docker for environment management, it lays the groundwork for a scalable, extensible system to serve legal data for research and public access.
+
 
