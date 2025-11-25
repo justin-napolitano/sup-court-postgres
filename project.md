@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/sup-court-postgres
 generatedAt: '2025-11-24T21:36:30.226Z'
 source: github-auto
 summary: >-
-  Set up and manage a PostgreSQL database for US Supreme Court data using Java,
-  Docker, and Maven with automated schema creation.
+  Set up and manage a PostgreSQL database for US Supreme Court data using Java, Docker, and Maven
+  with automated schema creation.
 tags:
   - postgresql
   - java
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - sql schema files
   - maven project structure
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -131,4 +131,5 @@ mvn exec:java -Dexec.mainClass="com.createdb.Main"
 ---
 
 This project is a foundational step towards building an open-source graph of US Jurisprudence accessible via the web.
+
 
