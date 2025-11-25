@@ -1,20 +1,30 @@
 ---
 slug: github-sup-court-postgres
 id: github-sup-court-postgres
-title: sup-court-postgres
+title: PostgreSQL Database Management for US Supreme Court Data
 repo: justin-napolitano/sup-court-postgres
 githubUrl: https://github.com/justin-napolitano/sup-court-postgres
 generatedAt: '2025-11-24T21:36:30.226Z'
 source: github-auto
 summary: >-
-  A Java-based project to set up and manage a PostgreSQL database for US Supreme
-  Court data. This repository includes SQL schema files, Java code for database
-  creation and table setup, and Docker configurations for running PostgreSQL and
-  Adminer.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Set up and manage a PostgreSQL database for US Supreme Court data using Java,
+  Docker, and Maven with automated schema creation.
+tags:
+  - postgresql
+  - java
+  - docker
+  - maven
+  - database management
+  - adminer
+  - sql schema
+seoPrimaryKeyword: postgresql database management
+seoSecondaryKeywords:
+  - java database setup
+  - docker compose postgres
+  - supreme court data
+  - sql schema files
+  - maven project structure
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
