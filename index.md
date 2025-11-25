@@ -1,13 +1,13 @@
 ---
 slug: github-sup-court-postgres
-title: Automating PostgreSQL Setup for Supreme Court Data with Java and Maven
+title: PostgreSQL Database Setup for Supreme Court Data
 repo: justin-napolitano/sup-court-postgres
 githubUrl: https://github.com/justin-napolitano/sup-court-postgres
 generatedAt: '2025-11-23T09:41:18.440982Z'
 source: github-auto
 summary: >-
-  Defines a PostgreSQL schema for Supreme Court jurisprudence and automates database creation using
-  Java, Maven, Docker, and SQL scripts.
+  Learn how to set up a PostgreSQL database for US Supreme Court data using
+  Java, Maven, and Docker for automation and management.
 tags:
   - postgresql
   - java
@@ -15,20 +15,24 @@ tags:
   - docker
   - legal-data
   - database-automation
-seoPrimaryKeyword: postgresql database setup
+seoPrimaryKeyword: postgresql database setup supreme court
 seoSecondaryKeywords:
-  - java automation
-  - supreme court data
-  - docker compose
-  - sql schema
+  - java database automation
+  - docker compose postgresql
+  - sql schema design
+  - legal data management
+  - supreme court jurisprudence
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on automating PostgreSQL database setup using Java, Maven, Docker, and SQL
-  scripts, which aligns closely with the 'Automation' category's emphasis on scripts and projects
-  for automating build, deployment, and workflows. The inclusion of Docker and Java-based automation
-  fits the described family better than others.
+  The post focuses on automating PostgreSQL database setup using Java, Maven,
+  Docker, and SQL scripts, which aligns closely with the 'Automation' category's
+  emphasis on scripts and projects for automating build, deployment, and
+  workflows. The inclusion of Docker and Java-based automation fits the
+  described family better than others.
+kind: project
+id: github-sup-court-postgres
 ---
 
 # Setting Up a PostgreSQL Database for Supreme Court Data Using Java and Maven
